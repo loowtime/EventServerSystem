@@ -1,0 +1,75 @@
+name: EventServerSystem
+version: 1.0-SNAPSHOT
+main: de.lowtime.yt.Main
+api-version: 1.16
+authors: [ lowtime ]
+description: by lowtime
+commands:
+  dev:
+    permission: lowtime.dev
+    permission-message: §cYou have no Permission to use that!
+    description: See the Developer from the EventServer Plugin.
+  webside:
+    permission: lowtime.webside
+    permission-message: §cYou have no Permission to use that!
+    description: See lowtimes Webside.
+  timer:
+    permission:  lowtime.timer
+    permission-message: §cYou have no Permission to use that!
+    description: Start the Event Server Countdown for a Event be like.
+  cursedaxt:
+    permission: lowtime.axtverflucht
+    permission-message: §cYou have no Permission to use that!
+    description: Give you the Cursed Axt!
+  cursedweapon:
+    permission: lowtime.schwertverflucht
+    permission-message: §cYou have no Permission to use that!
+    description: Give you the Cursed Weapon!
+  cursedpickaxe:
+    permission: lowtime.verfluchterspitzhacke
+    permission-message: §cYou have no Permission to use that!
+    description: Give you the Cursed Pickaxe!
+  fly:
+    permission: lowtime.fly
+    permission-message: §cYou have no Permission to use that!
+    description: Set you in the Flymode!
+  gui:
+    permission: lowtime.gui
+    permission-message: §cYou have no Permission to use that!
+    description: Open the Addon-Manager.
+  heal:
+    permission: heal.use
+    permission-message: §cYou have no Permission to use that!
+    description: Heal you.
+  gm:
+    permission: lowtime.gm
+    permission-message: §cYou have no Permission to use that!
+    description: Set you in the Gamemode.
+  gamemode:
+    permission: lowtime.gamemode
+    permission-message: §cYou have no Permission to use that!
+    description: Set you in the Gamemode.
+  compass:
+    permission: lowtime.compass
+    permission-message: §cYou have no Permission to use that!
+    description: Give you a Compass!
+  track:
+    permission: lowtime.track
+    permission-message: §cYou have no Permission to use that!
+    description: Track another Player!
+  tracker:
+    permission: lowtime.tracker
+    permission-message: §cYou have no Permission to use that!
+    description: Track another Player!
+  wonderfulbanana:
+    permission: lowtime.wonderfulbanana
+    permission-message: §cYou have no Permission to use that!
+    description: Give you the Banana!
+  wonderfulavocado:
+    permission: lowtime.wonderfulavocado
+    permission-message: §cYou have no Permission to use that!
+    description: Give you a Avocado!
+
+
+
+
